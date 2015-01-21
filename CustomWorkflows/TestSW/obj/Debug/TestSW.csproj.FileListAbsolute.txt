@@ -1,0 +1,5 @@
+C:\Users\admin3324\Documents\GitHub\rawcom.crm.Workflows\CustomWorkflows\TestSW\bin\Debug\TestSW.dll
+C:\Users\admin3324\Documents\GitHub\rawcom.crm.Workflows\CustomWorkflows\TestSW\bin\Debug\TestSW.pdb
+C:\Users\admin3324\Documents\GitHub\rawcom.crm.Workflows\CustomWorkflows\TestSW\obj\Debug\TestSW.csprojResolveAssemblyReference.cache
+C:\Users\admin3324\Documents\GitHub\rawcom.crm.Workflows\CustomWorkflows\TestSW\obj\Debug\TestSW.dll
+C:\Users\admin3324\Documents\GitHub\rawcom.crm.Workflows\CustomWorkflows\TestSW\obj\Debug\TestSW.pdb
